@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a82ee6e0c5c24410ac97b3fb655ab4b0" Name="Diagram1" ZoomLevel="151">
+        <EntityTypeShape EntityType="BazaModel.character" Width="1.5" PointX="6.125" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="BazaModel.clients" Width="1.5" PointX="8.125" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="BazaModel.sysdiagrams" Width="1.5" PointX="10.125" PointY="4" IsExpanded="true" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
